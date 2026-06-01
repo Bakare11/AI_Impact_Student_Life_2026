@@ -8,4 +8,11 @@
 - To evaluate the relationship between AI usage and career confidence.
 
 ## Dataset used
+<a href = "https://github.com/Bakare11/AI_Impact_Student_Life_2026/blob/main/Dataset.csv">Dataset</a>
 
+## Questions 
+•  Does AI usage improve students’ GPA?
+•  Which AI tools are most frequently used?
+•  How many hours do students save weekly using AI?
+•  Is there a relationship between AI usage frequency and career confidence?
+•  What ethical concerns do students have regarding AI usage?
