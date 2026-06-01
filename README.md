@@ -28,6 +28,7 @@
 - merged all pivot charts into one dashboard and add slicers to make dynamic
 
 ## Dashboard
+<img width="1447" height="445" alt="Screenshot 2026-06-01 201413" src="https://github.com/user-attachments/assets/a7528a2c-3a2b-4341-9e04-007554363e19" />
 
 
 ## Project Insights
@@ -38,3 +39,6 @@
 5.	GitHub Copilot appears among the most frequently used AI tools.
 6.	Exam preparation is one of the dominant AI usage purposes.
 7.	Career confidence scores average around 5.4 out of 10.
+
+# Final conclusion
+This study demonstrates that AI tools have become an important component of modern academic life. Findings suggest that AI contributes positively to productivity and moderate academic improvement while raising important ethical considerations that institutions must address responsibly.
