@@ -28,7 +28,7 @@
 - merged all pivot charts into one dashboard and add slicers to make dynamic
 
 ## Dashboard
-<a href = "https://github.com/Bakare11/AI_Impact_Student_Life_2026/blob/main/Screenshot%202026-06-01%20201413.png"></a>
+
 
 ## Project Insights
 1.	Average student age is approximately 21.5 years.
